@@ -1,4 +1,4 @@
-![Picture](Photo_Informal.jpeg)
+![Picture](Photo_Informal.jpeg){width=0.5}
 
 # LYDIA PLACHY
 
