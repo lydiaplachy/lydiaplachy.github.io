@@ -1,6 +1,6 @@
 <center>
   
-<img src="Photo_Informal43.jpeg" alt="Informal Photo" style="height: 400px; width:300px;"/>
+<img src="Photo_Informal43.jpeg" alt="Informal Photo" style="height: 200px; width:150px;"/>
   
 </center>
 
