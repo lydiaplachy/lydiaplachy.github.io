@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Lydia Plachy
-description: M.A. Candidate in Banking and Finance
+# description:
 email: lydia.plachy@gmail.com
 linkedin_username: lydia-plachy-3052bb167
 baseurl: "" # the subpath of your site, e.g. /blog
