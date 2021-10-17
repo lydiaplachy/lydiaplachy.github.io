@@ -25,6 +25,8 @@ linkedin_username: lydia-plachy-3052bb167
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lydiaplachy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+copyright: Lydia Plachy
+author: Lydia Plachy
 # Build settings
 # theme: minima
 plugins:
