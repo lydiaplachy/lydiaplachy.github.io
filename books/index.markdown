@@ -4,5 +4,6 @@
 
 layout: home-reading
 title: "READING"
+menutitle: "READING"
 category: Reading
 ---
