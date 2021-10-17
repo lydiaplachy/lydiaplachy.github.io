@@ -9,7 +9,7 @@ permalink: /about/
 <img src="/images/Photo_Informal43.jpeg" alt="Informal Photo" style="height: 200px; width:150px;"/>
 <br><br>
   <h1>Lydia Plachy </h1>
-<h3> M.A. Candidate in Banking and Finance (MBF) at the University of St Gallen</h3>
+<h2> M.A. Candidate in Banking and Finance (MBF) at the University of St Gallen</h2>
   <br>
     <body>
 <p align="justify">
